@@ -44,38 +44,6 @@
 </p>
 
 
-<h3 align="center">Pour se connecter avec Moi:</h3>
-<p align="center" >
-  <a href="https://dev.to/jb dev couturier" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="jb dev couturier"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://linkedin.com/in/jean-baptiste-couturier-711b30173"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jean-baptiste-couturier-711b30173"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/uckwizizthzh3kwpiaoxn-la"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/channel/uckwizizthzh3kwpiaoxn-la"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
 <h3 align="center">Languages et Outils:</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
