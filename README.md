@@ -1,12 +1,39 @@
-<h1 align="center">Hi 👋, Je suis Couturier JB</h1>
-<h3 align="center">Jeune web developpeur</h3>
+
+
 
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=jb-dev-couturier&label=Profile%20views&color=0e75b6&style=flat"
     alt="jb-dev-couturier"
   />
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, Je suis Couturier JB</h1>
+  <h3 align="center">Jeune web developpeur</h3>
+  
 </p>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+   <img
+    src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+  <img
+    src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+   <img
+    src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+</p>
+
+
 <p align="center">
 - 🔭 Je travaille sur [J-Kamazon](https://github.com/Jb-Dev-Couturier/J-Kamazon)
 - 🌱 J"apprend en ce moment **Next Js et Sanity** - 👨‍💻 La plupart de mes projets
