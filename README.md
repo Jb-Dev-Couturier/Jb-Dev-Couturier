@@ -34,14 +34,13 @@
 </p>
 
 
-<p align="center">
-- 🔭 Je travaille sur [J-Kamazon](https://github.com/Jb-Dev-Couturier/J-Kamazon)
-- 🌱 J"apprend en ce moment **Next Js et Sanity** - 👨‍💻 La plupart de mes projets
-sont visible ici :
-[https://www.jb-dev-couturier.fr/](https://www.jb-dev-couturier.fr/) - 💬 Je
-connais **Html, CSS, JS , React, Node Js** - 📫Me contacter
-**jibaoke@gmail.com** - ⚡ Fun fact **La culture Asiatique et les manga sont ma
-religion !!!**
+<p align="left">
+- 🔭 Je travaille sur [J-Kamazon](https://github.com/Jb-Dev-Couturier/J-Kamazon)</br>
+- 🌱 J"apprend en ce moment **Next Js et Sanity** </br>
+- 👨‍💻 La plupart de mes projets sont visible ici : https://www.jb-dev-couturier.fr </br>
+- 💬 Je connais **Html, CSS, JS , React, Node Js** </br>
+- 📫Me contacter **jibaoke@gmail.com** -</br> 
+⚡ Fun fact **La culture Asiatique et les manga sont ma religion !!!**
 </p>
 
 
