@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, Je suis Couturier JB</h1>
 <h3 align="center">Jeune web developpeur</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=jb-dev-couturier&label=Profile%20views&color=0e75b6&style=flat"
     alt="jb-dev-couturier"
   />
 </p>
-
+<p align="center">
 - 🔭 Je travaille sur [J-Kamazon](https://github.com/Jb-Dev-Couturier/J-Kamazon)
 - 🌱 J"apprend en ce moment **Next Js et Sanity** - 👨‍💻 La plupart de mes projets
 sont visible ici :
@@ -15,9 +15,11 @@ sont visible ici :
 connais **Html, CSS, JS , React, Node Js** - 📫Me contacter
 **jibaoke@gmail.com** - ⚡ Fun fact **La culture Asiatique et les manga sont ma
 religion !!!**
+</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
+<h3 align="center">Pour se connecter avec Moi:</h3>
+<p align="center" >
   <a href="https://dev.to/jb dev couturier" target="blank"
     ><img
       align="center"
@@ -48,24 +50,8 @@ religion !!!**
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages et Outils:</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -134,6 +120,10 @@ religion !!!**
       height="40"
     />
   </a>
+
+</p>
+
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -146,14 +136,6 @@ religion !!!**
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
       width="40"
       height="40"
     />
@@ -232,7 +214,9 @@ religion !!!**
   </a>
 </p>
 
-<p align="left">
+<h3 align="center">Trophée Git:</h3>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=jb-dev-couturier"
@@ -240,7 +224,8 @@ religion !!!**
   /></a>
 </p>
 
-<p>
+<h3 align="center">Mes Language Preférés:</h3>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jb-dev-couturier&show_icons=true&locale=en&layout=compact"
@@ -248,7 +233,8 @@ religion !!!**
   />
 </p>
 
-<p>
+<h3 align="center">Mes Stats Git:</h3>
+<p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=jb-dev-couturier&show_icons=true&locale=en"
